@@ -12,7 +12,7 @@
 - [x] Tecnologia
 - [x] Pre requisito
 - [x] Autor
-- [ ] GIF ‘s
+- [x] GIF ‘s
 ---
 <h1 align='center'>Variável</h1>
 
@@ -29,14 +29,18 @@
 </h4>
 
 ---
-<h1 align=’center’>
-	<img alt=’Readme’ title=’Readme’ src=’./github/Readme-gif.gif’ />
+<h1 align='center'>
+	<img alt='Readme' title='Readme' src='./assets/execucao.gif' />
 </h1>
 
 ---
 ### Sobre
  
- Para esse projeto pratico, terei uns EXERCÍCIOS de fixação de nível básicos sobre variáveis
+ Para esse projeto pratico, EXERCÍCIOS de fixação de nível básicos sobre variáveis.
+ - const
+   - variavelConstImutavil
+- let
+   - variavelLetMutavil
 ### Pré-requisitos 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes FERRAMENTAS: [GIT](https://git-scm.com/), [Node.js](https://nodejs.org/en/download). 
@@ -54,9 +58,14 @@ $ cd revisar-variaves
 # Instale as dependências
 $ npm install
 
-# Execute
-$ node .\variavel-const-imutavil.js 
-$ node variavel-const-imutavil
+# Execute const
+$ node .\variavelConstImutavil.js
+$ node variavelConstImutavil
+
+# Execute let
+$ node .\variavelLetMutavil.js  
+$ node variavelLetMutavil
+
 ```
 ### Tecnologias 
 
