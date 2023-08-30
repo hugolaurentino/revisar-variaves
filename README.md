@@ -2,10 +2,9 @@
   <img alt="Logo" title="#Logo" src="./assets/logo-hugo.png" />
 </h1>
 
-<!-- ![](./assets/logo-hugo.png) -->
-
 ### Características
 
+- [x] Bak-End
 - [x] Criar Título
 - [x] Criar Descrição
 - [x] Sobre
@@ -16,7 +15,7 @@
 ---
 <h1 align='center'>Variável</h1>
 
-<p align='center'>Esse projeto é de fixação de variável</p>
+<p align='center'>Esse e um exemplo de variável</p>
 
 <p align='center'>
 	<a href='#sobre'>Sobre</a> |
@@ -24,9 +23,6 @@
 	<a href='#tecnologias'>Tecnologias</a> |
 	<a href='#autor'>Autor</a>
 </p>
-<h4 align='center'> 
-	 🚀Projeto Em construção... 🚧
-</h4>
 
 ---
 <h1 align='center'>
@@ -36,7 +32,8 @@
 ---
 ### Sobre
  
- Para esse projeto pratico, EXERCÍCIOS de fixação de nível básicos sobre variáveis.
+Exemplo de fixação de nível básicos sobre variáveis.
+
  - const
    - variavelConstImutavil
 - let
